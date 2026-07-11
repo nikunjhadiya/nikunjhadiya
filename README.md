@@ -70,9 +70,25 @@ Python Backend Developer | Django Developer | REST API Developer
 
 # 📈 Most Used Languages
 
+# 📌 Popular Repositories
+
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjhadiya&layout=compact&theme=transparent"/>
+<a href="https://github.com/nikunjhadiya/streamflix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjhadiya&repo=streamflix&theme=transparent" />
+</a>
+
+<a href="https://github.com/nikunjhadiya/django-ecommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjhadiya&repo=django-ecommerce&theme=transparent" />
+</a>
+
+<a href="https://github.com/nikunjhadiya/data-analysis-projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjhadiya&repo=data-analysis-projects&theme=transparent" />
+</a>
+
+<a href="https://github.com/nikunjhadiya/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikunjhadiya&repo=portfolio&theme=transparent" />
+</a>
 
 </p>
 
