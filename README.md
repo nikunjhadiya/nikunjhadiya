@@ -80,11 +80,17 @@ Python Backend Developer | Django Developer | REST API Developer
 
 # 📊 Contribution Graph
 
-<p align="center">
+## GitHub Stats
+https://github-readme-stats.vercel.app/
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikunjhadiya&theme=github-compact"/>
+## Contribution Graph
+https://github-readme-activity-graph.vercel.app/
 
-</p>
+## GitHub Streak
+https://streak-stats.demolab.com/
+
+## GitHub Trophies
+https://github-profile-trophy.vercel.app/
 
 ---
 
