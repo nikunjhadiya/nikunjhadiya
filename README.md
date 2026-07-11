@@ -1,16 +1,116 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikunj Hadiya</h1>
 
-<!--
-**nikunjhadiya/nikunjhadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Python Backend Developer | Django Developer | REST API Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable backend applications with Python & Django 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+- 💼 Python Backend Developer
+- 🌱 Currently learning Advanced Django & REST APIs
+- 🚀 Passionate about Backend Development
+- 📫 Email: **ahirnikunj1122@gmail.com**
+
+---
+
+# 🔗 Connect with Me
+
+<p align="left">
+<a href="https://github.com/nikunjhadiya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:ahirnikunj1122@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+---
+
+# 🛠️ Skill Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+### Python Libraries
+
+`NumPy` `Pandas` `Matplotlib` `Seaborn`
+
+### Concepts
+
+`OOP`
+`CRUD Operations`
+`Authentication`
+`REST API Integration`
+`Django ORM`
+`MVC Architecture`
+`Responsive Design`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikunjhadiya&show_icons=true&theme=transparent"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikunjhadiya&theme=transparent"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjhadiya&layout=compact&theme=transparent"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikunjhadiya&theme=github-compact"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
