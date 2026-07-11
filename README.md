@@ -4,19 +4,6 @@
 Python Backend Developer | Django Developer | REST API Developer
 </h3>
 
-<p align="center">
-Building scalable backend applications with Python & Django 🚀
-</p>
-
----
-
-# 👨‍💻 About Me
-
-- 💼 Python Backend Developer
-- 🌱 Currently learning Advanced Django & REST APIs
-- 🚀 Passionate about Backend Development
-- 📫 Email: **ahirnikunj1122@gmail.com**
-
 ---
 
 # 🔗 Connect with Me
@@ -67,16 +54,6 @@ Building scalable backend applications with Python & Django 🚀
 
 `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
-### Concepts
-
-`OOP`
-`CRUD Operations`
-`Authentication`
-`REST API Integration`
-`Django ORM`
-`MVC Architecture`
-`Responsive Design`
-
 ---
 
 # 📊 GitHub Stats
@@ -111,6 +88,3 @@ Building scalable backend applications with Python & Django 🚀
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
